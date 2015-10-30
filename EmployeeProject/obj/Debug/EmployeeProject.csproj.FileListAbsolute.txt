@@ -1,0 +1,5 @@
+D:\D drive _Suresh\Dummy Project\Employee_Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.dll
+D:\D drive _Suresh\Dummy Project\Employee_Project\EmployeeProject\EmployeeProject\bin\EmployeeProject.pdb
+D:\D drive _Suresh\Dummy Project\Employee_Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.csprojResolveAssemblyReference.cache
+D:\D drive _Suresh\Dummy Project\Employee_Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.dll
+D:\D drive _Suresh\Dummy Project\Employee_Project\EmployeeProject\EmployeeProject\obj\Debug\EmployeeProject.pdb
